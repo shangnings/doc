@@ -21,22 +21,21 @@
 title: 我的球被偷了
 email: shangning.sn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://shangnings.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+  怕什么真理无穷，进一寸有一寸的欢喜
+baseurl: "/" # the base hostname & protocol for your site, e.g. http://example.com
+# url: " https://shangnings.github.io" # the subpath of your site, e.g. /blog
+url: " http://127.0.0.1:4000" # the subpath of your site, e.g. /blog
+# twitter_username: jekyllrb
+github_username:  shangnings
 
 # Build settings
-theme: minima
-# remote_theme: minima
+# theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: rundocs/jekyll-rtd-theme
+# remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
-
-# markdown: kramdown
-# markdown: GFM
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.

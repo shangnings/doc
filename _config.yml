@@ -23,7 +23,7 @@ email: shangning.sn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   怕什么真理无穷，进一寸有一寸的欢喜
 baseurl: "/" # the base hostname & protocol for your site, e.g. http://example.com
-url: " https://shangnings.github.io" # the subpath of your site, e.g. /blog
+url: "https://shangnings.github.io" # the subpath of your site, e.g. /blog
 # url: " http://127.0.0.1:4000" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 github_username:  shangnings

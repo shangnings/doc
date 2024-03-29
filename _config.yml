@@ -29,8 +29,8 @@ url: " http://127.0.0.1:4000" # the subpath of your site, e.g. /blog
 github_username:  shangnings
 
 # Build settings
-# theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
+# remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: rundocs/jekyll-rtd-theme
 # remote_theme: sighingnow/jekyll-gitbook
 plugins:

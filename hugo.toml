@@ -2,3 +2,128 @@ baseURL = 'https://shangnings.github.io/'
 languageCode = 'en-us'
 title = '我的球被偷了'
 theme = 'PaperMod'
+paginate = 5
+
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "我的球被偷了"
+description = "怕什么真理无穷，进有进一步的欢喜"
+keywords = [ "Blog" ]
+author = "我的球被偷了"
+images = [ "" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+#[params.assets]
+#favicon = "<link / abs url>"
+#favicon16x16 = "<link / abs url>"
+#favicon32x32 = "<link / abs url>"
+#apple_touch_icon = "<link / abs url>"
+#safari_pinned_tab = "<link / abs url>"
+
+[params.label]
+text = "我的球被偷了"
+icon = "/apple-touch-icon.png"
+iconHeight = 35
+
+# 主页模式，和下面的“主页信息模式”相斥
+[params.profileMode]
+enabled = true
+title = "我的球被偷了"
+subtitle = "怕什么真理无穷，进有进一步的欢喜"
+imageUrl = "https://avatars.githubusercontent.com/u/3965725?v=4"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "我的球被偷了的头像"
+
+# 主页模式下的按钮，可多个
+[[params.profileMode.buttons]]
+name = "文章"
+url = "posts"
+
+# 主页信息模式
+[params.homeInfoParams]
+Title = "实事求是"
+Content = "怕什么真理无穷，进有进一步的欢喜"
+
+# 社区账号，可多个
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/shangnings"
+
+
+[params.analytics]
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+[params.cover]
+hidden = true
+hiddenInList = true
+hiddenInSingle = true
+
+# 文章编辑
+#[params.editPost]
+#URL = "https://github.com/shangnings/pages/content"
+#Text = "Suggest Changes"
+#appendFilePath = true
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+limit = 10
+keys = [ "title", "permalink", "summary", "content" ]
+
+[menu]
+[[menu.main]]
+identifier = "blog"
+name = "文章"
+url = "posts"
+weight = 10
+
+[[menu.main]]
+identifier = "github"
+name = "github.com"
+url = "https://github.com/"
+weight = 30
+
+[markup]
+[markup.highlight]
+noClasses = false

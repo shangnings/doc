@@ -71,7 +71,7 @@ url = "posts"
 
 [[params.profileMode.buttons]]
 name = "笔记"
-url = " notes"
+url = "notes"
 
 # 主页信息模式
 [params.homeInfoParams]

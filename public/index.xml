@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>我的球被偷了</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/self-pages/</link>
     <description>Recent content on 我的球被偷了</description>
     <image>
       <title>我的球被偷了</title>
-      <url>http://localhost:1313/</url>
-      <link>http://localhost:1313/</link>
+      <url>http://localhost:1313/self-pages/</url>
+      <link>http://localhost:1313/self-pages/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Mar 2024 15:59:11 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/self-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>哈尔滨旅游计划</title>
-      <link>http://localhost:1313/posts/%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%85%E6%B8%B8%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:1313/self-pages/posts/%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%85%E6%B8%B8%E8%AE%A1%E5%88%92/</link>
       <pubDate>Sat, 30 Mar 2024 15:59:11 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%85%E6%B8%B8%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:1313/self-pages/posts/%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%85%E6%B8%B8%E8%AE%A1%E5%88%92/</guid>
       <description>1. 住行安排 1.1. 高铁 去：04-30 北京朝阳-哈尔滨西 G921 07:25 - 13:17
 回：05-03 哈尔滨西-北京朝阳 G4770 11:31 - 17:30
 1.2. 酒店 04-30~05-02 万达假日酒店（哈尔滨中央大街店）经纬街90号 05-02 哈尔滨道里希尔顿欢朋酒店 通达街138号 2. 攻略 2.1. 必须体验 搓澡、俄餐、早市、锅包肉、红肠、冰棍、铁锅炖、烧烤、麻辣烫、麻辣拌、排骨串

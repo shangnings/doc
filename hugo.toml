@@ -66,11 +66,11 @@ imageTitle = "我的球被偷了的头像"
 
 # 主页模式下的按钮，可多个
 [[params.profileMode.buttons]]
-name = "博客"
+name = "笔记"
 url = "posts"
 
 [[params.profileMode.buttons]]
-name = "笔记"
+name = "日常"
 url = "notes"
 
 # 主页信息模式
@@ -118,7 +118,7 @@ keys = [ "title", "permalink", "summary", "content" ]
 [menu]
 [[menu.main]]
 identifier = "blog"
-name = "博客"
+name = "笔记"
 url = "posts"
 weight = 10
 

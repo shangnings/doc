@@ -1,4 +1,4 @@
-baseURL = 'https://shangnings.github.io/self-pages/'
+baseURL = 'https://shangnings.github.io/pages/'
 languageCode = 'en-us'
 title = '我的球被偷了'
 theme = 'PaperMod'

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的球被偷了</title>
-    <link>https://shangnings.github.io/self-pages/</link>
-    <description>Recent content on 我的球被偷了</description>
+    <title>Notes on 我的球被偷了</title>
+    <link>https://shangnings.github.io/self-pages/notes/</link>
+    <description>Recent content in Notes on 我的球被偷了</description>
     <image>
       <title>我的球被偷了</title>
       <url>https://shangnings.github.io/self-pages/</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Mar 2024 15:59:11 +0800</lastBuildDate>
-    <atom:link href="https://shangnings.github.io/self-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shangnings.github.io/self-pages/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>哈尔滨旅游计划</title>
       <link>https://shangnings.github.io/self-pages/notes/%E5%93%88%E5%B0%94%E6%BB%A8%E6%97%85%E6%B8%B8%E8%AE%A1%E5%88%92/</link>
